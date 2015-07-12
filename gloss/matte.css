@@ -60,3 +60,11 @@ button, input[type=submit] {
 button:hover {
     background-color: #f8f8f8;
 }
+
+table, th, td {
+    border: 1px solid #222;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 15px;
+}
